@@ -1,2 +1,3 @@
 # software-engineering
-SE Lab 6
+Software Engineering LAB work
+
